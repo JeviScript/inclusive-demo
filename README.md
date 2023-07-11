@@ -1,6 +1,7 @@
 # Planets
     Demo app for inclusive.co.uk 
-    [Online Demo (available when my PC is on)](http://86.5.209.32:3000/)
+
+[Demo Online link (works when my PC is on)](http://86.5.209.32:3000/ "Demo Online link (available when my PC is on)")
 
 # Structure
     .
